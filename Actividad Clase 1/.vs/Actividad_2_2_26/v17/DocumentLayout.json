@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Actividad_2_2_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|f:\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|F:\\Actividad_2_2_26\\actividad_2_2_26\\actividad4_4_26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\actividad4_4_26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|F:\\Actividad_2_2_26\\actividad_2_2_26\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|F:\\Actividad_2_2_26\\actividad_2_2_26\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Ejercicio3.cs",
+              "ToolTip": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio3.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Ejercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:52:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Ejercicio2.cs",
+              "ToolTip": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio2.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Ejercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:27:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actividad4_4_26.cs",
+              "DocumentMoniker": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Actividad4_4_26.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Actividad4_4_26.cs",
+              "ToolTip": "F:\\Actividad_2_2_26\\Actividad_2_2_26\\Actividad4_4_26.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Actividad4_4_26.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:24:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "F:\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T22:32:57.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

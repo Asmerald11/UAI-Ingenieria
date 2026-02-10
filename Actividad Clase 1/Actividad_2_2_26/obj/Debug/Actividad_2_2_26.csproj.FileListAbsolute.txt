@@ -1,0 +1,8 @@
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\bin\Debug\Actividad_2_2_26.exe.config
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\bin\Debug\Actividad_2_2_26.exe
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\bin\Debug\Actividad_2_2_26.pdb
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\obj\Debug\Actividad_2_2_26.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\obj\Debug\Actividad_2_2_26.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\obj\Debug\Actividad_2_2_26.exe
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\obj\Debug\Actividad_2_2_26.pdb
+C:\Users\Navegador\source\repos\Actividad_2_2_26\Actividad_2_2_26\obj\Debug\Actividad_2_2_26.exe.config

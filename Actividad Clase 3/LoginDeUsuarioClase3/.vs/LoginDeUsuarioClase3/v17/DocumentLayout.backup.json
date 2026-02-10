@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\formlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:formlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\formlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:formlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\formmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:formmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\formmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:formmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|d:\\ejrcicio 3\\logindeusuarioclase3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B5FC93-792D-45B4-A762-877903F1D606}|LoginDeUsuarioClase3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormListBox.cs",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormListBox.cs",
+              "RelativeDocumentMoniker": "FormListBox.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormListBox.cs",
+              "RelativeToolTip": "FormListBox.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:51:36.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormListBox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormListBox.cs",
+              "RelativeDocumentMoniker": "FormListBox.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormListBox.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListBox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:33:16.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:32:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMenu2.cs",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormMenu2.cs",
+              "RelativeDocumentMoniker": "FormMenu2.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormMenu2.cs",
+              "RelativeToolTip": "FormMenu2.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:31:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMenu2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormMenu2.cs",
+              "RelativeDocumentMoniker": "FormMenu2.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\FormMenu2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMenu2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:30:38.272Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:58:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ejrcicio 3\\LoginDeUsuarioClase3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:51:07.459Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

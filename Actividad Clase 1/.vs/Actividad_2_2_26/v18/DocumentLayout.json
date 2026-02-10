@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Actividad_2_2_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|E:\\Actividad_2_2_26\\actividad_2_2_26\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|e:\\actividad_2_2_26\\actividad_2_2_26\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|E:\\Actividad_2_2_26\\actividad_2_2_26\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|E:\\Actividad_2_2_26\\actividad_2_2_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D83626-62CD-42C4-98F1-F83650E5497D}|Actividad_2_2_26\\Actividades.csproj|solutionrelative:actividad_2_2_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Program.cs",
+              "ToolTip": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Program.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T23:12:16.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Ejercicio1.cs",
+              "ToolTip": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio1.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T23:15:26.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Ejercicio2.cs",
+              "ToolTip": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio2.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Ejercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:43:45.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Actividad_2_2_26\\Ejercicio3.cs",
+              "ToolTip": "E:\\Actividad_2_2_26\\Actividad_2_2_26\\Ejercicio3.cs",
+              "RelativeToolTip": "Actividad_2_2_26\\Ejercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:43:45.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "E:\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:43:45.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

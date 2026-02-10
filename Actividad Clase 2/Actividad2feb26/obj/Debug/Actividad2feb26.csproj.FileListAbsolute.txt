@@ -1,0 +1,7 @@
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\bin\Debug\Actividad2feb26.exe.config
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\bin\Debug\Actividad2feb26.exe
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\bin\Debug\Actividad2feb26.pdb
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\obj\Debug\Actividad2feb26.csproj.AssemblyReference.cache
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\obj\Debug\Actividad2feb26.csproj.CoreCompileInputs.cache
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\obj\Debug\Actividad2feb26.exe
+C:\Users\Santi\source\repos\Actividad2feb26\Actividad2feb26\obj\Debug\Actividad2feb26.pdb
