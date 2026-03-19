@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp6\\movistar arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:movistar arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\colado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:colado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp6\\natatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:natatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp6\\nado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:nado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp6\\natatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:natatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\movistar arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54640DEB-5FFD-4FF2-9172-370E4EDE98CD}|TP6.csproj|solutionrelative:movistar arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Natatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Natatorio.cs",
+              "RelativeDocumentMoniker": "Natatorio.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Natatorio.cs",
+              "RelativeToolTip": "Natatorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:21:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:21:14.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nado.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Nado.cs",
+              "RelativeDocumentMoniker": "Nado.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Nado.cs",
+              "RelativeToolTip": "Nado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:21:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Natatorio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Natatorio.cs",
+              "RelativeDocumentMoniker": "Natatorio.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Natatorio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Natatorio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:21:09.164Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:42:58.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colado.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Colado.cs",
+              "RelativeDocumentMoniker": "Colado.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Colado.cs",
+              "RelativeToolTip": "Colado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:48:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movistar Arena.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Movistar Arena.cs",
+              "RelativeDocumentMoniker": "Movistar Arena.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Movistar Arena.cs",
+              "RelativeToolTip": "Movistar Arena.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:40:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movistar Arena.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Movistar Arena.cs",
+              "RelativeDocumentMoniker": "Movistar Arena.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Movistar Arena.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Movistar Arena.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:28:22.098Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:36:15.936Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

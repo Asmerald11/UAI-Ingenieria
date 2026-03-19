@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|c:\\users\\santi\\onedrive\\escritorio\\random stuff\\uai\\primer a\u00F1o\\programacion y estructuras de datos\\tp laboratorio 2\\tp laboratorio 2\\carga de vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\carga de vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\carga de vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\carga de vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\carga de vectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\carga de vectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\barras de desplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\barras de desplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mas operaciones con fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mas operaciones con fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\operaciones fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\operaciones fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\barras de desplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\barras de desplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\barra de progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\barra de progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\barra de progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\barra de progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mas operaciones con fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mas operaciones con fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\operaciones fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\operaciones fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mas fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mas fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mas fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mas fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\manejo de strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\manejo de strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\manejo de strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\manejo de strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\formato de fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\formato de fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\formato de fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\formato de fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\formato de numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\formato de numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\formato de numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\formato de numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mensajes de texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mensajes de texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\mensajes de texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\mensajes de texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\operaciones con vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\operaciones con vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\operaciones con vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\operaciones con vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\carga de matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\carga de matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\tp laboratorio 2\\carga de matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74E24F0-B12F-4410-BADA-64AACA59CEEF}|TP Laboratorio 2\\TP Laboratorio 2.csproj|solutionrelative:tp laboratorio 2\\carga de matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Menu.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Menu.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Menu.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Menu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:20:51.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carga de Vectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Carga de Vectores.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP Laboratorio 2\\Carga de Vectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:38:55.695Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carga de Vectores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.Designer.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Carga de Vectores.Designer.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.Designer.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Carga de Vectores.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:39:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carga de Vectores.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Carga de Vectores.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Vectores.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Carga de Vectores.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:42:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mas operaciones con fechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas operaciones con fechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP Laboratorio 2\\Mas operaciones con fechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:11:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Timer.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Timer.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Timer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP Laboratorio 2\\Timer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:41:27.515Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Timer.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Timer.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Timer.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Timer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:43:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Barras de Desplazamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:52:55.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Operaciones Fecha.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones Fecha.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Operaciones Fecha.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones Fecha.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP Laboratorio 2\\Operaciones Fecha.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:02:56.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Barras de Desplazamiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Barras de Desplazamiento.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barras de Desplazamiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP Laboratorio 2\\Barras de Desplazamiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:51:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Program.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Program.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:57:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Menu.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Menu.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Menu.cs [Design]",
+              "RelativeToolTip": "TP Laboratorio 2\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:17:52.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Barra de Progreso.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barra de Progreso.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Barra de Progreso.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barra de Progreso.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Barra de Progreso.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:49:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Barra de Progreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Barra de Progreso.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Barra de Progreso.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Barra de Progreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Barra de Progreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:48:04.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mas operaciones con fechas.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Mas operaciones con fechas.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvyEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:14:00.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Operaciones Fecha.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones Fecha.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Operaciones Fecha.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones Fecha.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Operaciones Fecha.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:05:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mas fechas.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Mas fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas fechas.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Mas fechas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvyUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:59:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mas fechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Mas fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Mas fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Mas fechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Mas fechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:57:57.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Manejo de Strings.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Manejo de Strings.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Manejo de Strings.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Manejo de Strings.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Manejo de Strings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:43:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manejo de Strings.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Manejo de Strings.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Manejo de Strings.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Manejo de Strings.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Manejo de Strings.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:36:23.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Formato de fechas.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Formato de fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de fechas.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Formato de fechas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:33:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Formato de fechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de fechas.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Formato de fechas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de fechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de fechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:27:37.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Formato de Numeros.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de Numeros.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Formato de Numeros.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de Numeros.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Formato de Numeros.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:11:46.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Formato de Numeros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de Numeros.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Formato de Numeros.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de Numeros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Formato de Numeros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:06:26.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MEnsajes de texto.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\MEnsajes de texto.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\MEnsajes de texto.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\MEnsajes de texto.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\MEnsajes de texto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvx8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:56:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MEnsajes de texto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\MEnsajes de texto.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\MEnsajes de texto.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\MEnsajes de texto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\MEnsajes de texto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:53:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Operaciones con Vectores.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:20:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Operaciones con Vectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Operaciones con Vectores.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones con Vectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Operaciones con Vectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:17:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Carga de Matrices.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Matrices.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Carga de Matrices.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Matrices.cs",
+              "RelativeToolTip": "TP Laboratorio 2\\Carga de Matrices.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:49:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Carga de Matrices.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Matrices.cs",
+              "RelativeDocumentMoniker": "TP Laboratorio 2\\Carga de Matrices.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Matrices.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP Laboratorio 2\\TP Laboratorio 2\\Carga de Matrices.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:48:26.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\bin\Debug\TP6.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\bin\Debug\TP6.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\bin\Debug\TP6.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.Natatorio.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.Prioridades.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP6\obj\Debug\TP6.Movistar_Arena.resources

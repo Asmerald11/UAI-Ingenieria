@@ -10,59 +10,99 @@ namespace ConsoleApp1
     {
         public void act11()
         {
-            int ticket, pizza=0, cant=0, vuelta=0, moto, costo, max=0, min=100000, total=0, i=0, pizA=0;
-            int[,] motomatriz = new int[5, 1000];
-            int[,] pizzamatriz = new int[6, 1000];
-            float prom, porcentaje;
+           
+            int ticket, codPizza, cantidad, nroMoto;
+            double monto;
 
-            Console.WriteLine("Ingrese el numero de ticket:");
+            double maxMonto = -1;       
+            int maxTicket = 0;          
+            int maxMoto = 0;            
+
+            int[] viajesPorMoto = new int[5];
+                                             
+
+            int totalPizzasA = 0;       
+            int totalEnvios = 0;        
+            double facturacionTotal = 0;
+
+
+            Console.WriteLine("Ingrese el numero de ticket (0 para terminar):");
             ticket = int.Parse(Console.ReadLine());
+
             while (ticket != 0)
             {
-                Console.WriteLine("Ingresar el tipo de pizza");
-                pizza = int.Parse(Console.ReadLine());
-                if (pizza == 1)
-                {
-                    pizA = pizA + cant;
-                }
-                Console.WriteLine("Ingrese la cantidad de pizzas");
-                cant = int.Parse(Console.ReadLine());
-                cant += cant;
-                pizzamatriz[pizza, cant] += cant;
-                Console.WriteLine("Ingrese la moto encargada");
-                moto = int.Parse(Console.ReadLine());
-                motomatriz[moto, vuelta] += vuelta;
-                Console.WriteLine("Ingrese el costo:");
-                costo = int.Parse(Console.ReadLine());
-                total += costo;
-                if (costo < min)
-                {
-                    min = costo;
-                } else if (costo > max)
-                {
-                    max = costo;
-                }
-                i++;
-                Console.WriteLine("Ingrese el numero de ticket:");
-                ticket = int.Parse(Console.ReadLine());
+                Console.WriteLine("Ingrese el código de pizza (1-6):");
+                codPizza = int.Parse(Console.ReadLine());
 
-            }
-            int motomin = 0;
-            for (int j=1; j<=4; j++)
-            {
-                if (motomatriz[j, vuelta] < motomin)
+                Console.WriteLine("Ingrese la cantidad de pizzas:");
+                cantidad = int.Parse(Console.ReadLine());
+
+                if (codPizza == 1)
                 {
-                    motomin = motomatriz[j, vuelta];
+                    totalPizzasA += cantidad;
                 }
+                Console.WriteLine("Ingrese el Nro de moto (1-4):");
+                nroMoto = int.Parse(Console.ReadLine());
+
+                if (nroMoto >= 1 && nroMoto <= 4)
+                {
+                    viajesPorMoto[nroMoto]++;
+                }
+                else
+                {
+                    Console.WriteLine("Error: Moto desconocida.");
+                }
+
+
+                Console.WriteLine("Ingrese el monto del pedido:");
+                monto = double.Parse(Console.ReadLine());
+
+                facturacionTotal += monto;
+                totalEnvios++;
+
+                if (monto > maxMonto)
+                {
+                    maxMonto = monto;
+                    maxTicket = ticket;
+                    maxMoto = nroMoto;
+                }
+
+                Console.WriteLine("Ingrese el numero de ticket (0 para terminar):");
+                ticket = int.Parse(Console.ReadLine());
             }
-            prom = total / i;
-            porcentaje = (pizA * 100) / cant;
-            Console.WriteLine("El costo maximo es: " + max);
-            Console.WriteLine("El costo minimo es: " + min);
-            Console.WriteLine("El promedio de los costos es: " + prom);
-            Console.WriteLine("El porcentaje de pizzas A vendidas es: " + porcentaje);
-            Console.WriteLine("El total de la recaudacion es: " + total);
-            Console.WriteLine("La moto que menos entregas realizo es: " + motomin);
+
+
+            if (totalEnvios > 0)
+            {
+
+                int minViajes = 100000;
+                int motoMenosViajes = 0;
+
+                for (int m = 1; m <= 4; m++)
+                {
+                    if (viajesPorMoto[m] < minViajes)
+                    {
+                        minViajes = viajesPorMoto[m];
+                        motoMenosViajes = m;
+                    }
+                }
+
+                double promedio = facturacionTotal / totalEnvios;
+                double porcentaje = (double)(totalPizzasA * 100) / totalEnvios;
+
+                Console.WriteLine("\nRESULTADOS:");
+                Console.WriteLine("1. El Ticket de mayor valor fue el Nro: " + maxTicket +
+                                  " ($" + maxMonto + ") llevado por la Moto " + maxMoto);
+                Console.WriteLine("2. La moto con menos viajes fue la Nro: " + motoMenosViajes +
+                                  " (" + minViajes + " viajes)");
+                Console.WriteLine("3. Valor promedio de los tickets: $" + promedio);
+                Console.WriteLine("4. Porcentaje de cantidad Pizzas 'A' sobre total de envíos: " + porcentaje + "%");
+                Console.WriteLine("5. Facturación total del negocio: $" + facturacionTotal);
+            }
+            else
+            {
+                Console.WriteLine("No se ingresaron datos.");
+            }
         }
     }
 }

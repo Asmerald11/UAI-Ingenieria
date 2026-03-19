@@ -1,54 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\santi\\source\\repos\\consoleapp1\\consoleapp1\\actividad11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\tp laboratorio 1\\consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\manejo de checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manejo de checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\manejo de checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manejo de checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\manejodegroupbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manejodegroupbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\manejodegroupbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manejodegroupbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\consoleapp1\\actividad11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\consoleapp1\\actividad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\actividad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFC6DC6-575E-4FBE-9A33-D58A6F3A6625}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Actividad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,41 +98,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T12:14:47.069Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Actividad11.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad11.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad11.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad11.cs",
-              "RelativeToolTip": "ConsoleApp1\\Actividad11.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wEAAAABTAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Menu.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ConsoleApp1\\Menu.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T20:11:43.839Z",
+              "WhenOpened": "2026-02-11T23:28:24.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manejo de checkbox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Manejo de checkbox.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Manejo de checkbox.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Manejo de checkbox.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsoleApp1\\Manejo de checkbox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:18:34.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManejoDeGroupbox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\ManejoDeGroupbox.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ManejoDeGroupbox.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\ManejoDeGroupbox.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsoleApp1\\ManejoDeGroupbox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:08:05.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:34:37.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Menu.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Menu.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:29:40.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Manejo de checkbox.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Manejo de checkbox.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Manejo de checkbox.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Manejo de checkbox.cs",
+              "RelativeToolTip": "ConsoleApp1\\Manejo de checkbox.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:21:23.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManejoDeGroupbox.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\ManejoDeGroupbox.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ManejoDeGroupbox.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\ManejoDeGroupbox.cs",
+              "RelativeToolTip": "ConsoleApp1\\ManejoDeGroupbox.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvwwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:12:21.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsoleApp1\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:22:41.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T21:14:17.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsoleApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T21:12:37.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actividad11.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad11.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad11.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad11.cs",
+              "RelativeToolTip": "ConsoleApp1\\Actividad11.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:11:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Actividad10.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad10.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad10.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad10.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad10.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad10.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad10.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,23 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Actividad9.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad9.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad9.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad9.cs",
-              "RelativeToolTip": "ConsoleApp1\\Actividad9.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T18:48:41.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Actividad8.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad8.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad8.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad8.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad8.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad8.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad8.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +268,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Actividad7.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad7.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad7.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad7.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad7.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad7.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Actividad6.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad6.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad6.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad6.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad6.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad6.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,35 +292,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Actividad5.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad5.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad5.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad5.cs",
-              "RelativeToolTip": "ConsoleApp1\\Actividad5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T18:48:10.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Actividad4.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad4.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad4.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad4.cs",
-              "RelativeToolTip": "ConsoleApp1\\Actividad4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T18:48:02.333Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Actividad3.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad3.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad3.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad3.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad3.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad3.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +304,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "Actividad9.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad9.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad9.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad9.cs",
+              "RelativeToolTip": "ConsoleApp1\\Actividad9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:48:41.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Actividad5.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad5.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad5.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad5.cs",
+              "RelativeToolTip": "ConsoleApp1\\Actividad5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:48:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Actividad4.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad4.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Actividad4.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad4.cs",
+              "RelativeToolTip": "ConsoleApp1\\Actividad4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:48:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Actividad2.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad2.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad2.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad2.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad2.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad2.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Actividad1.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad1.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Actividad1.cs",
-              "ToolTip": "C:\\Users\\Santi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Actividad1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP Laboratorio 1\\ConsoleApp1\\Actividad1.cs",
               "RelativeToolTip": "ConsoleApp1\\Actividad1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

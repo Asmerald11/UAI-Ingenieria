@@ -1,0 +1,7 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\bin\Debug\TP 1 - Practicos en Consola.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\bin\Debug\TP 1 - Practicos en Consola.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\bin\Debug\TP 1 - Practicos en Consola.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\obj\Debug\TP 1 - Practicos en Consola.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\obj\Debug\TP 1 - Practicos en Consola.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\obj\Debug\TP 1 - Practicos en Consola.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 1 - Practicos en Consola\TP 1 - Practicos en Consola\obj\Debug\TP 1 - Practicos en Consola.pdb

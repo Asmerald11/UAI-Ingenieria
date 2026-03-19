@@ -1,0 +1,16 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\bin\Debug\TP4.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\bin\Debug\TP4.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\bin\Debug\TP4.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Hospital.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Escuela.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Cine.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Jardin.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.HouseMD.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP4\obj\Debug\TP4.Hollywood.resources

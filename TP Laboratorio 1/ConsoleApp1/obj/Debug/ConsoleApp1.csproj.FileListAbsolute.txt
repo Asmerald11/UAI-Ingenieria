@@ -5,3 +5,17 @@ C:\Users\Santi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj
 C:\Users\Santi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Santi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Santi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.frmradiobtn.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.Manejo_de_checkbox.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.ManejoDeGroupbox.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.Menu.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources

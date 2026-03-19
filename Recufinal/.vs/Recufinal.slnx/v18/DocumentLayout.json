@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|c:\\users\\santi\\onedrive\\escritorio\\random stuff\\uai\\primer a\u00F1o\\programacion y estructuras de datos\\recufinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0932B4FF-3373-4869-ACE7-12EE573EA39F}|Recufinal.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwJAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:42:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:44:23.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\Recufinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:40:31.658Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

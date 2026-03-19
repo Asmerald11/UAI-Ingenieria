@@ -1,0 +1,23 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\bin\Debug\TP 3.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\bin\Debug\TP 3.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\bin\Debug\TP 3.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP 3.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Suma.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP 3.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP 3.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP 3.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP 3.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.SumLabel.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Numeros.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Operaciones.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Primos.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Fibonacci.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.PlazoFijo.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Dado.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.DadoPeak.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Temperatura.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.TaTeTi.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.BackColor.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 3\obj\Debug\TP_3.Fotos.resources

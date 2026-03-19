@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|c:\\users\\santi\\onedrive\\escritorio\\random stuff\\uai\\primer a\u00F1o\\programacion y estructuras de datos\\tp4\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\cineasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:cineasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\hollywood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:hollywood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\housemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:housemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\housemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:housemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFF85956-F4DB-4C2D-86DC-A0D9D7424C95}|TP4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cine.cs",
+              "RelativeDocumentMoniker": "Cine.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cine.cs",
+              "RelativeToolTip": "Cine.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:54:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cineasta.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cineasta.cs",
+              "RelativeDocumentMoniker": "Cineasta.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cineasta.cs",
+              "RelativeToolTip": "Cineasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:54:08.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cine.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cine.cs",
+              "RelativeDocumentMoniker": "Cine.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Cine.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cine.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:54:04.765Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HouseMD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\HouseMD.cs",
+              "RelativeDocumentMoniker": "HouseMD.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP4\\HouseMD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP4\\HouseMD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:42:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hollywood.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Hollywood.cs",
+              "RelativeDocumentMoniker": "Hollywood.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Hollywood.cs",
+              "RelativeToolTip": "Hollywood.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwHIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:05:00.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HouseMD.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\HouseMD.cs",
+              "RelativeDocumentMoniker": "HouseMD.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\HouseMD.cs",
+              "RelativeToolTip": "HouseMD.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:06:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:39:34.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\Random Stuff\\UAI\\PRIMER A\u00D1O\\Programacion y estructuras de datos\\TP4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\TP4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UAI\\TP4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:25:42.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

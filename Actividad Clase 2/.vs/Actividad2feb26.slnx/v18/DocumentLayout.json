@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Actividad2feb26\\",
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\CasoPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\CasoPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|c:\\users\\santi\\onedrive\\escritorio\\uai\\actividad clase 2\\actividad2feb26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:actividad2feb26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\Caso1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\Caso1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Actividad2feb26\\Actividad2feb26\\CasoPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividad2feb26\\CasoPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF518494-B9F8-4E3F-AD73-4033044F11CC}|Actividad2feb26\\Actividad2feb26.csproj|solutionrelative:Actividad2feb26\\Caso3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Caso6.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso6.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso6.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso6.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso6.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso6.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Caso5.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso5.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso5.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso5.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso5.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso5.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Caso4.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso4.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso4.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso4.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso4.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso4.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +82,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Caso3.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso3.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso3.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso3.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso3.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso3.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,47 +94,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Caso2.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso2.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso2.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso2.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso2.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso2.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T00:22:29.07Z"
+              "WhenOpened": "2026-02-08T00:22:29.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Caso1.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Caso1.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso1.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Caso1.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Caso1.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Caso1.cs",
               "RelativeToolTip": "Actividad2feb26\\Caso1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T00:20:19.956Z"
+              "WhenOpened": "2026-02-08T00:20:19.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "CasoPrueba.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\CasoPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\CasoPrueba.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\CasoPrueba.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\CasoPrueba.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\CasoPrueba.cs",
               "RelativeToolTip": "Actividad2feb26\\CasoPrueba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T23:29:03.538Z"
+              "WhenOpened": "2026-02-07T23:29:03.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Actividad2feb26\\Actividad2feb26\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Program.cs",
               "RelativeDocumentMoniker": "Actividad2feb26\\Program.cs",
-              "ToolTip": "E:\\Actividad2feb26\\Actividad2feb26\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\UAI\\Actividad Clase 2\\Actividad2feb26\\Program.cs",
               "RelativeToolTip": "Actividad2feb26\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

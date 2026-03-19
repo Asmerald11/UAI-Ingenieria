@@ -1,0 +1,13 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\bin\Debug\TP 5.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\bin\Debug\TP 5.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\bin\Debug\TP 5.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP 5.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP_5.Contenedores.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP_5.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP_5.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP 5.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP 5.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP 5.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP 5.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP_5.Trayecto.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP 5\obj\Debug\TP_5.Juzgado.resources

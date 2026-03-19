@@ -1,0 +1,10 @@
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\bin\Debug\Recufinal.exe.config
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\bin\Debug\Recufinal.exe
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\bin\Debug\Recufinal.pdb
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.exe
+C:\Users\Santi\OneDrive\Escritorio\Random Stuff\UAI\PRIMER AÑO\Programacion y estructuras de datos\Recufinal\obj\Debug\Recufinal.pdb

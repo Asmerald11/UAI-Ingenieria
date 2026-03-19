@@ -1,0 +1,7 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\obj\Debug\Recursividad.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\Recursividad\obj\Debug\Recursividad.pdb

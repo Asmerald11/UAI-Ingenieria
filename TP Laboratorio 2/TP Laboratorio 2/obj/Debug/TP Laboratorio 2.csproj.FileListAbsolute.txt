@@ -1,0 +1,23 @@
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\bin\Debug\TP Laboratorio 2.exe.config
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\bin\Debug\TP Laboratorio 2.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\bin\Debug\TP Laboratorio 2.pdb
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP Laboratorio 2.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Barra_de_Progreso.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Barras_de_Desplazamiento.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Carga_de_Matrices.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Form1.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Formato_de_fechas.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Formato_de_Numeros.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Manejo_de_Strings.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Mas_fechas.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Mas_operaciones_con_fechas.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.MEnsajes_de_texto.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Menu.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Operaciones_con_Vectores.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Operaciones_Fecha.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP_Laboratorio_2.Timer.resources
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP Laboratorio 2.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP Laboratorio 2.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP Laboratorio 2.exe
+C:\Users\Santi\OneDrive\Escritorio\UAI\TP Laboratorio 2\TP Laboratorio 2\obj\Debug\TP Laboratorio 2.pdb
